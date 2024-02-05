@@ -17,3 +17,10 @@ Exported image for the web: JPEG file with a long edge size of 1200px with an RG
 * Use of Text – edited and transformed (layer styles, tracking, kerning, leading)
 * Use of shapes
 * Use of gradients/transparency/blending modes
+
+## Book Cover Designed:
+
+![9246731_The_Great_Gatsby_Photoshop](https://github.com/Prashar-P/Book-Cover-Design/assets/140114811/e2d9f327-3f72-4f03-99f0-89077242733c)
+
+
+
